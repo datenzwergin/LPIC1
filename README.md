@@ -42,6 +42,6 @@ a challenging task, but not an impossible one.
 
 The “ict@innovation: Training Guide on Linux System Administration - LPI Certification Level 1” has been
 released under an open licence (Creative Commons Attribution-Share Alike 3.0 Germany License) allowing
-for free distribution, remixing and updating of the material. Our goal is thereby to empower local African
+for free distribution, remixing and updating of the material. The goal is thereby to empower local African
 training institutions to offer low-cost trainings. And we are looking forward to further building and updating of
 this Training Guide in the spirit of sharing and mutual capacity building.
