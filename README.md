@@ -24,8 +24,8 @@ Linux professionals with the possibility to hold low-cost paper-based examinatio
 The LPIC-1 (101 and 102 exams) level taught in this guide cover the fundamental Linux system
 administration skills. Like the LPI curriculum itself, the course is "distribution neutral"; that is, it does
 not favour a specific Linux distribution. Learners can therefore use this manual not only to pass the
-LPIC-1 exams but also be in a position to operate a range of different Linux distributions. The detailed
-objectives of LPI EXAM 101 AND 102 are online at:
+LPIC-1 exams but also be in a position to operate a range of different Linux distributions. 
+The detailed objectives of LPI EXAM 101 AND 102 are online at:
 http://www.lpi.org/our-certifications/lpic-1-overview
 
 Learners are expected to have:
